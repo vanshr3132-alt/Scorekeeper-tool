@@ -30,3 +30,5 @@ A simple two-player score tracking web app built using HTML, CSS (Bulma), and Ja
 ---
 
 Made with 💻 by Vansh
+
+
