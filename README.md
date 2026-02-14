@@ -25,7 +25,7 @@ A simple two-player score tracking web app built using HTML, CSS (Bulma), and Ja
 
 ## 🌍 Live Demo
 
-(Add GitHub Pages link here)
+https://vanshr3132-alt.github.io/Scorekeeper-tool/
 
 ---
 
